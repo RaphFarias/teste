@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: sans-serif;
+}
+
+.consulta.consulta-escolhida {
+  background: tomato;
+  padding: 40px;
+  font-family: sans-serif;
+  transition: .6s;
+}
